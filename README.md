@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Handwritten Digit Recognition 
-=======
-Handwritten Digit Recognition 
->>>>>>> 86b9933b74c4abb345dc5bed1e7b5e26d5d94788
 
 This project implements a Handwritten Digit Recognition system using Deep Learning (Convolutional Neural Networks).
 It is capable of recognizing digits (0–9) from images of handwritten numbers.
