@@ -1,4 +1,4 @@
-#Handwritten Digit Recognition 
+# Handwritten Digit Recognition 
 
 This project implements a Handwritten Digit Recognition system using Deep Learning (Convolutional Neural Networks).
 It is capable of recognizing digits (0–9) from images of handwritten numbers.
@@ -15,13 +15,13 @@ Uses a CNN model for high accuracy.
 
 
 
-##📂 Dataset
+## 📂 Dataset
 
 Default dataset: MNIST
  (70,000 grayscale images, 28×28 pixels).
 
 
-##Model Architecture
+## Model Architecture
 
 The CNN model consists of:
 
