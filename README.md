@@ -5,7 +5,7 @@ It is capable of recognizing digits (0–9) from images of handwritten numbers.
 
 The project is inspired by real-world applications such as bank check recognition, postal code reading, and OCR systems.
 
-##Features
+## Features
 
 Recognizes handwritten digits from images.
 
