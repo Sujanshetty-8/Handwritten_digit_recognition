@@ -17,7 +17,7 @@ data_augmentation = tf.keras.Sequential([
 ])
 
 
-# 4. Build an Even Better CNN Model
+# 4. Build a CNN Model
 model = tf.keras.models.Sequential([
     # Add the data augmentation layers right at the beginning
     data_augmentation, # Apply data augmentation to input images during training 
